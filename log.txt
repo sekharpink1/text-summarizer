@@ -1,0 +1,194 @@
+[2023-05-30 09:55:54,372]: creating directory: .github/workflows for the file .gitkeep:
+[2023-05-30 09:55:54,372]: creating empty file: .github/workflows/.gitkeep:
+[2023-05-30 09:55:54,372]: creating directory: src for the file textSummarizer__init__.py:
+[2023-05-30 09:55:54,372]: creating empty file: src/textSummarizer__init__.py:
+[2023-05-30 09:55:54,373]: creating directory: src/textSummarizer/components for the file __init__.py:
+[2023-05-30 09:55:54,373]: creating empty file: src/textSummarizer/components/__init__.py:
+[2023-05-30 09:55:54,373]: creating directory: src/textSummarizer/utils for the file __init__.py:
+[2023-05-30 09:55:54,373]: creating empty file: src/textSummarizer/utils/__init__.py:
+[2023-05-30 09:55:54,373]: creating directory: src/textSummarizer/utils for the file common.py:
+[2023-05-30 09:55:54,373]: creating empty file: src/textSummarizer/utils/common.py:
+[2023-05-30 09:55:54,373]: creating directory: src/textSummarizer/logging for the file __init__.py:
+[2023-05-30 09:55:54,373]: creating empty file: src/textSummarizer/logging/__init__.py:
+[2023-05-30 09:55:54,373]: creating directory: src/textSummarizer/config for the file __init__.py:
+[2023-05-30 09:55:54,373]: creating empty file: src/textSummarizer/config/__init__.py:
+[2023-05-30 09:55:54,373]: creating directory: src/textSummarizer/config for the file configuration.py:
+[2023-05-30 09:55:54,374]: creating empty file: src/textSummarizer/config/configuration.py:
+[2023-05-30 09:55:54,374]: creating directory: src/textSummarizer/pipeline for the file __init__.py:
+[2023-05-30 09:55:54,374]: creating empty file: src/textSummarizer/pipeline/__init__.py:
+[2023-05-30 09:55:54,374]: creating directory: src/textSummarizer/entity for the file __init__.py:
+[2023-05-30 09:55:54,374]: creating empty file: src/textSummarizer/entity/__init__.py:
+[2023-05-30 09:55:54,374]: creating directory: src/textSummarizer/constants for the file __init__.py:
+[2023-05-30 09:55:54,374]: creating empty file: src/textSummarizer/constants/__init__.py:
+[2023-05-30 09:55:54,374]: creating directory: config for the file config.yaml:
+[2023-05-30 09:55:54,374]: creating empty file: config/config.yaml:
+[2023-05-30 09:55:54,374]: creating empty file: params.yaml:
+[2023-05-30 09:55:54,374]: creating empty file: app.py:
+[2023-05-30 09:55:54,374]: creating empty file: main.py:
+[2023-05-30 09:55:54,374]: creating empty file: Dockerfile:
+[2023-05-30 09:55:54,375]: creating empty file: requirements.txt:
+[2023-05-30 09:55:54,375]: creating empty file: setup.py:
+[2023-05-30 09:55:54,375]: creating directory: research for the file trails.ipynb:
+[2023-05-30 09:55:54,375]: creating empty file: research/trails.ipynb:
+[2023-05-30 10:03:59,366]: creating directory: .github/workflows for the file .gitkeep:
+[2023-05-30 10:03:59,366]: creating empty file: .github/workflows/.gitkeep:
+[2023-05-30 10:03:59,366]: creating directory: src for the file textSummarizer__init__.py:
+[2023-05-30 10:03:59,367]: creating empty file: src/textSummarizer__init__.py:
+[2023-05-30 10:03:59,367]: creating directory: src/textSummarizer/components for the file __init__.py:
+[2023-05-30 10:03:59,367]: creating empty file: src/textSummarizer/components/__init__.py:
+[2023-05-30 10:03:59,367]: creating directory: src/textSummarizer/utils for the file __init__.py:
+[2023-05-30 10:03:59,367]: creating empty file: src/textSummarizer/utils/__init__.py:
+[2023-05-30 10:03:59,367]: creating directory: src/textSummarizer/utils for the file common.py:
+[2023-05-30 10:03:59,367]: creating empty file: src/textSummarizer/utils/common.py:
+[2023-05-30 10:03:59,367]: creating directory: src/textSummarizer/logging for the file __init__.py:
+[2023-05-30 10:03:59,367]: creating empty file: src/textSummarizer/logging/__init__.py:
+[2023-05-30 10:03:59,367]: creating directory: src/textSummarizer/config for the file __init__.py:
+[2023-05-30 10:03:59,367]: creating empty file: src/textSummarizer/config/__init__.py:
+[2023-05-30 10:03:59,367]: creating directory: src/textSummarizer/config for the file configuration.py:
+[2023-05-30 10:03:59,367]: creating empty file: src/textSummarizer/config/configuration.py:
+[2023-05-30 10:03:59,367]: creating directory: src/textSummarizer/pipeline for the file __init__.py:
+[2023-05-30 10:03:59,368]: creating empty file: src/textSummarizer/pipeline/__init__.py:
+[2023-05-30 10:03:59,368]: creating directory: src/textSummarizer/entity for the file __init__.py:
+[2023-05-30 10:03:59,368]: creating empty file: src/textSummarizer/entity/__init__.py:
+[2023-05-30 10:03:59,368]: creating directory: src/textSummarizer/constants for the file __init__.py:
+[2023-05-30 10:03:59,368]: creating empty file: src/textSummarizer/constants/__init__.py:
+[2023-05-30 10:03:59,368]: creating directory: config for the file config.yaml:
+[2023-05-30 10:03:59,368]: creating empty file: config/config.yaml:
+[2023-05-30 10:03:59,368]: creating empty file: params.yaml:
+[2023-05-30 10:03:59,368]: creating empty file: app.py:
+[2023-05-30 10:03:59,368]: creating empty file: main.py:
+[2023-05-30 10:03:59,368]: creating empty file: Dockerfile:
+[2023-05-30 10:03:59,368]: creating empty file: requirements.txt:
+[2023-05-30 10:03:59,368]: creating empty file: setup.py:
+[2023-05-30 10:03:59,368]: creating directory: research for the file trails.ipynb:
+[2023-05-30 10:03:59,369]: creating empty file: research/trails.ipynb:
+[2023-05-30 10:04:35,790]: creating directory: .github/workflows for the file .gitkeep:
+[2023-05-30 10:04:35,791]: creating empty file: .github/workflows/.gitkeep:
+[2023-05-30 10:04:35,791]: creating directory: src for the file textSummarizer__init__.py:
+[2023-05-30 10:04:35,791]: creating empty file: src/textSummarizer__init__.py:
+[2023-05-30 10:04:35,791]: creating directory: src/textSummarizer/components for the file __init__.py:
+[2023-05-30 10:04:35,791]: creating empty file: src/textSummarizer/components/__init__.py:
+[2023-05-30 10:04:35,791]: creating directory: src/textSummarizer/utils for the file __init__.py:
+[2023-05-30 10:04:35,791]: creating empty file: src/textSummarizer/utils/__init__.py:
+[2023-05-30 10:04:35,791]: creating directory: src/textSummarizer/utils for the file common.py:
+[2023-05-30 10:04:35,792]: creating empty file: src/textSummarizer/utils/common.py:
+[2023-05-30 10:04:35,792]: creating directory: src/textSummarizer/logging for the file __init__.py:
+[2023-05-30 10:04:35,792]: creating empty file: src/textSummarizer/logging/__init__.py:
+[2023-05-30 10:04:35,792]: creating directory: src/textSummarizer/config for the file __init__.py:
+[2023-05-30 10:04:35,792]: creating empty file: src/textSummarizer/config/__init__.py:
+[2023-05-30 10:04:35,792]: creating directory: src/textSummarizer/config for the file configuration.py:
+[2023-05-30 10:04:35,792]: creating empty file: src/textSummarizer/config/configuration.py:
+[2023-05-30 10:04:35,792]: creating directory: src/textSummarizer/pipeline for the file __init__.py:
+[2023-05-30 10:04:35,792]: creating empty file: src/textSummarizer/pipeline/__init__.py:
+[2023-05-30 10:04:35,792]: creating directory: src/textSummarizer/entity for the file __init__.py:
+[2023-05-30 10:04:35,792]: creating empty file: src/textSummarizer/entity/__init__.py:
+[2023-05-30 10:04:35,792]: creating directory: src/textSummarizer/constants for the file __init__.py:
+[2023-05-30 10:04:35,792]: creating empty file: src/textSummarizer/constants/__init__.py:
+[2023-05-30 10:04:35,792]: creating directory: config for the file config.yaml:
+[2023-05-30 10:04:35,792]: creating empty file: config/config.yaml:
+[2023-05-30 10:04:35,793]: creating empty file: params.yaml:
+[2023-05-30 10:04:35,793]: creating empty file: app.py:
+[2023-05-30 10:04:35,793]: creating empty file: main.py:
+[2023-05-30 10:04:35,793]: creating empty file: Dockerfile:
+[2023-05-30 10:04:35,793]: creating empty file: requirements.txt:
+[2023-05-30 10:04:35,793]: creating empty file: setup.py:
+[2023-05-30 10:04:35,793]: creating directory: research for the file trails.ipynb:
+[2023-05-30 10:04:35,793]: creating empty file: research/trails.ipynb:
+[2023-05-30 10:22:08,841]: creating directory: .github/workflows for the file .gitkeep:
+[2023-05-30 10:22:08,841]: creating empty file: .github/workflows/.gitkeep:
+[2023-05-30 10:22:08,841]: creating directory: src for the file textSummarizer__init__.py:
+[2023-05-30 10:22:08,841]: creating empty file: src/textSummarizer__init__.py:
+[2023-05-30 10:22:08,841]: creating directory: src/textSummarizer/components for the file __init__.py:
+[2023-05-30 10:22:08,841]: creating empty file: src/textSummarizer/components/__init__.py:
+[2023-05-30 10:22:08,841]: creating directory: src/textSummarizer/utils for the file __init__.py:
+[2023-05-30 10:22:08,841]: creating empty file: src/textSummarizer/utils/__init__.py:
+[2023-05-30 10:22:08,841]: creating directory: src/textSummarizer/utils for the file common.py:
+[2023-05-30 10:22:08,841]: creating empty file: src/textSummarizer/utils/common.py:
+[2023-05-30 10:22:08,841]: creating directory: src/textSummarizer/logging for the file __init__.py:
+[2023-05-30 10:22:08,841]: creating empty file: src/textSummarizer/logging/__init__.py:
+[2023-05-30 10:22:08,841]: creating directory: src/textSummarizer/config for the file __init__.py:
+[2023-05-30 10:22:08,841]: creating empty file: src/textSummarizer/config/__init__.py:
+[2023-05-30 10:22:08,841]: creating directory: src/textSummarizer/config for the file configuration.py:
+[2023-05-30 10:22:08,842]: creating empty file: src/textSummarizer/config/configuration.py:
+[2023-05-30 10:22:08,842]: creating directory: src/textSummarizer/pipeline for the file __init__.py:
+[2023-05-30 10:22:08,842]: creating empty file: src/textSummarizer/pipeline/__init__.py:
+[2023-05-30 10:22:08,842]: creating directory: src/textSummarizer/entity for the file __init__.py:
+[2023-05-30 10:22:08,842]: creating empty file: src/textSummarizer/entity/__init__.py:
+[2023-05-30 10:22:08,842]: creating directory: src/textSummarizer/constants for the file __init__.py:
+[2023-05-30 10:22:08,842]: creating empty file: src/textSummarizer/constants/__init__.py:
+[2023-05-30 10:22:08,842]: creating directory: config for the file config.yaml:
+[2023-05-30 10:22:08,842]: creating empty file: config/config.yaml:
+[2023-05-30 10:22:08,842]: creating empty file: params.yaml:
+[2023-05-30 10:22:08,842]: creating empty file: app.py:
+[2023-05-30 10:22:08,842]: creating empty file: main.py:
+[2023-05-30 10:22:08,842]: creating empty file: Dockerfile:
+[2023-05-30 10:22:08,842]: creating empty file: requirements.txt:
+[2023-05-30 10:22:08,842]: creating empty file: setup.py:
+[2023-05-30 10:22:08,842]: creating directory: research for the file trails.ipynb:
+[2023-05-30 10:22:08,842]: creating empty file: research/trails.ipynb:
+[2023-05-30 10:23:20,945]: creating directory: .github/workflows for the file .gitkeep:
+[2023-05-30 10:23:20,945]: creating empty file: .github/workflows/.gitkeep:
+[2023-05-30 10:23:20,945]: creating directory: src for the file textSummarizer__init__.py:
+[2023-05-30 10:23:20,945]: creating empty file: src/textSummarizer__init__.py:
+[2023-05-30 10:23:20,945]: creating directory: src/textSummarizer/components for the file __init__.py:
+[2023-05-30 10:23:20,945]: creating empty file: src/textSummarizer/components/__init__.py:
+[2023-05-30 10:23:20,945]: creating directory: src/textSummarizer/utils for the file __init__.py:
+[2023-05-30 10:23:20,945]: creating empty file: src/textSummarizer/utils/__init__.py:
+[2023-05-30 10:23:20,945]: creating directory: src/textSummarizer/utils for the file common.py:
+[2023-05-30 10:23:20,945]: creating empty file: src/textSummarizer/utils/common.py:
+[2023-05-30 10:23:20,945]: creating directory: src/textSummarizer/logging for the file __init__.py:
+[2023-05-30 10:23:20,945]: creating empty file: src/textSummarizer/logging/__init__.py:
+[2023-05-30 10:23:20,946]: creating directory: src/textSummarizer/config for the file __init__.py:
+[2023-05-30 10:23:20,946]: creating empty file: src/textSummarizer/config/__init__.py:
+[2023-05-30 10:23:20,946]: creating directory: src/textSummarizer/config for the file configuration.py:
+[2023-05-30 10:23:20,946]: creating empty file: src/textSummarizer/config/configuration.py:
+[2023-05-30 10:23:20,946]: creating directory: src/textSummarizer/pipeline for the file __init__.py:
+[2023-05-30 10:23:20,946]: creating empty file: src/textSummarizer/pipeline/__init__.py:
+[2023-05-30 10:23:20,946]: creating directory: src/textSummarizer/entity for the file __init__.py:
+[2023-05-30 10:23:20,946]: creating empty file: src/textSummarizer/entity/__init__.py:
+[2023-05-30 10:23:20,946]: creating directory: src/textSummarizer/constants for the file __init__.py:
+[2023-05-30 10:23:20,946]: creating empty file: src/textSummarizer/constants/__init__.py:
+[2023-05-30 10:23:20,946]: creating directory: config for the file config.yaml:
+[2023-05-30 10:23:20,946]: creating empty file: config/config.yaml:
+[2023-05-30 10:23:20,946]: creating empty file: params.yaml:
+[2023-05-30 10:23:20,946]: creating empty file: app.py:
+[2023-05-30 10:23:20,946]: creating empty file: main.py:
+[2023-05-30 10:23:20,946]: creating empty file: Dockerfile:
+[2023-05-30 10:23:20,946]: creating empty file: requirements.txt:
+[2023-05-30 10:23:20,946]: creating empty file: setup.py:
+[2023-05-30 10:23:20,946]: creating directory: research for the file trails.ipynb:
+[2023-05-30 10:23:20,947]: creating empty file: research/trails.ipynb:
+[2023-05-30 10:23:20,947]: raj.py already exists:
+[2023-05-30 10:23:54,578]: creating directory: .github/workflows for the file .gitkeep:
+[2023-05-30 10:23:54,578]: creating empty file: .github/workflows/.gitkeep:
+[2023-05-30 10:23:54,578]: creating directory: src for the file textSummarizer__init__.py:
+[2023-05-30 10:23:54,578]: creating empty file: src/textSummarizer__init__.py:
+[2023-05-30 10:23:54,579]: creating directory: src/textSummarizer/components for the file __init__.py:
+[2023-05-30 10:23:54,579]: creating empty file: src/textSummarizer/components/__init__.py:
+[2023-05-30 10:23:54,579]: creating directory: src/textSummarizer/utils for the file __init__.py:
+[2023-05-30 10:23:54,579]: creating empty file: src/textSummarizer/utils/__init__.py:
+[2023-05-30 10:23:54,579]: creating directory: src/textSummarizer/utils for the file common.py:
+[2023-05-30 10:23:54,579]: creating empty file: src/textSummarizer/utils/common.py:
+[2023-05-30 10:23:54,579]: creating directory: src/textSummarizer/logging for the file __init__.py:
+[2023-05-30 10:23:54,579]: creating empty file: src/textSummarizer/logging/__init__.py:
+[2023-05-30 10:23:54,579]: creating directory: src/textSummarizer/config for the file __init__.py:
+[2023-05-30 10:23:54,579]: creating empty file: src/textSummarizer/config/__init__.py:
+[2023-05-30 10:23:54,579]: creating directory: src/textSummarizer/config for the file configuration.py:
+[2023-05-30 10:23:54,579]: creating empty file: src/textSummarizer/config/configuration.py:
+[2023-05-30 10:23:54,579]: creating directory: src/textSummarizer/pipeline for the file __init__.py:
+[2023-05-30 10:23:54,579]: creating empty file: src/textSummarizer/pipeline/__init__.py:
+[2023-05-30 10:23:54,579]: creating directory: src/textSummarizer/entity for the file __init__.py:
+[2023-05-30 10:23:54,579]: creating empty file: src/textSummarizer/entity/__init__.py:
+[2023-05-30 10:23:54,579]: creating directory: src/textSummarizer/constants for the file __init__.py:
+[2023-05-30 10:23:54,579]: creating empty file: src/textSummarizer/constants/__init__.py:
+[2023-05-30 10:23:54,579]: creating directory: config for the file config.yaml:
+[2023-05-30 10:23:54,580]: creating empty file: config/config.yaml:
+[2023-05-30 10:23:54,580]: creating empty file: params.yaml:
+[2023-05-30 10:23:54,580]: creating empty file: app.py:
+[2023-05-30 10:23:54,580]: creating empty file: main.py:
+[2023-05-30 10:23:54,580]: creating empty file: Dockerfile:
+[2023-05-30 10:23:54,580]: creating empty file: requirements.txt:
+[2023-05-30 10:23:54,580]: creating empty file: setup.py:
+[2023-05-30 10:23:54,580]: creating directory: research for the file trails.ipynb:
+[2023-05-30 10:23:54,580]: creating empty file: research/trails.ipynb:
+[2023-05-30 10:23:54,580]: creating empty file: raj.py:
